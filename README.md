@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hi there! 👋
 
 I'm exploring various tech paths, including back-end development, data science, DevOps, and machine learning. Each of these areas fascinates me, and although I haven't mastered them yet, I'm eagerly looking forward to growing in each one in the future. 🌱
 
