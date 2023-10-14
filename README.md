@@ -4,4 +4,4 @@ I'm exploring various tech paths, including back-end development, data science, 
 
 Currently, I'm immersing myself in the world of data engineering and data pipelining. I'm also delving into web development and AWS. Actively seeking opportunities. 💼
 
-Feel free to reach out to me via email at rohitbindw@gmail.com. 📧 Let's connect and explore this exciting tech world together! 👨‍💻🚀
+Feel free to reach out to me via email at rohitbindw@gmail.com. 📧 👨‍💻🚀
