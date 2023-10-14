@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm on a journey to explore various tech paths, including back-end development, data science, DevOps, and machine learning. Each of these areas fascinates me, and though I haven't mastered them yet, I'm eagerly looking forward to growing in each one in the future. 🌱
+I'm exploring various tech paths, including back-end development, data science, DevOps, and machine learning. Each of these areas fascinates me, and although I haven't mastered them yet, I'm eagerly looking forward to growing in each one in the future. 🌱
 
 Currently, I'm immersing myself in the world of data engineering and data pipelining. I'm also delving into web development and AWS. I'm actively on the lookout for new employment opportunities. 💼
 
