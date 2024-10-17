@@ -7,47 +7,55 @@
 
 <h2 align="center">Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/rohitsx/criminal.lol" target="_blank">
+<div align="center">
+
+  <a href="https://github.com/rohitsx/criminal.lol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=criminal.lol&theme=radical" alt="criminal.lol" />
   </a>
-  <a href="https://github.com/rohitsx/streamSync" target="_blank">
+  <br>
+  <strong>Tech Stack:</strong> NexJS/TS NodeJs Postgresql WebRTC SocketIO
+  <br>
+  <a href="https://criminal.lol/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/rohitsx/streamSync">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=streamSync&theme=radical" alt="streamSync" />
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rohitsx/omegle-clone" target="_blank">
+  <br>
+  <strong>Tech Stack:</strong> React/TS Nodejs WebRTC SocketIO MongoDB Redis
+  <br>
+  <a href="https://stream-sync.devrohit.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/rohitsx/omegle-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=omegle-clone&theme=radical" alt="omegle-clone" />
   </a>
-  <a href="https://github.com/rohitsx/web3-wallet" target="_blank">
+  <br>
+  <strong>Tech Stack:</strong> React/Js Nodejs WebRTC SocketIO Redis
+  <br>
+  <a href="http://omegel-clone.devrohit.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/rohitsx/web3-wallet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=web3-wallet&theme=radical" alt="web3-wallet" />
   </a>
-</p>
+  <br>
+  <strong>Tech Stack:</strong> React/TS
+  <br>
+  <a href="https://wallet.devrohit.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
 
-<details>
-  <summary>Project Details</summary>
-
-  ### Criminal.lol
-  - **Tech Stack:** NexJS/TS NodeJs Postgresql WebRTC SocketIO
-  - [Live Demo](https://criminal.lol/){:target="_blank"}
-  - Criminal.lol is a social media platform that lets you connect with strangers via video chat, alongside other engaging social media features.
-
-  ### StreamSync
-  - **Tech Stack:** React/TS Nodejs WebRTC SocketIO MongoDB Redis
-  - [Live Demo](https://stream-sync.devrohit.tech/){:target="_blank"}
-  - streamSync is a browser extension that enables real-time voice interactions between hosts and participants.
-
-  ### Omegle Clone
-  - **Tech Stack:** React/Js Nodejs WebRTC SocketIO Redis
-  - [Live Demo](http://omegel-clone.devrohit.tech/){:target="_blank"}
-  - Omegle Clone is a real-time video chat platform that connects strangers for random, spontaneous conversations.
-
-  ### WebRTC Project
-  - **Tech Stack:** React/TS
-  - [Live Demo](https://wallet.devrohit.tech/){:target="_blank"}
-  - Simple web3 wallet, allows users to generate and manage multiple wallet addresses.
-
-</details>
+</div>
 
 <h2 align="center">Connect On</h2>
 <p align="center">
