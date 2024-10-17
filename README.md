@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
       <p>Criminal.lol is a social media platform that lets you connect with strangers via video chat, alongside other engaging social media features.</p>
-      <p>NexJS/TS NodeJs Postgresql WebRTC SocketIO</p>
+      <p>[NexJS/TS NodeJs Postgresql WebRTC SocketIO]</p>
     </td>
     <td align="center" width="50%">
       <h3>StreamSync</h3>
