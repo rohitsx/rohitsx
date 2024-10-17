@@ -1,25 +1,60 @@
-[![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=rohitsx&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/rohitsx)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsx&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Rohit</h1>
 
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;Always+learning+new+things;I+like+trying+different+stacks" alt="Typing SVG" />
+</p>
 
-I'm a software engineer based in [Your Location] 🌆
+## About Me
 
-- 🧱 I'm currently working on [Your Current Project]
-- 🔭 I'm focusing on [Your Area of Focus]
-- ☕ I'm learning [Something You're Learning]
-- 🧑‍💻 I'm looking to collaborate on open source projects
-- 💬 Ask me about [Your Areas of Expertise]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Your Fun Fact]
+I enjoy exploring different tech stacks and am currently building exciting projects.
 
-### Open Source Projects
+## 🚀 Current Projects
 
-[![criminal.lol](https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=criminal.lol)](https://github.com/rohitsx/criminal.lol)
-[![streamSync](https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=streamSync)](https://github.com/rohitsx/streamSync)
-[![omegle-clone](https://github-readme-stats.vercel.app/api/pin/?username=rohitsx&repo=omegle-clone)](https://github.com/rohitsx/omegle-clone)
+### 1. Criminal.lol
+- **Repo:** [criminal.lol](https://github.com/rohitsx/criminal.lol)
+- **Live:** [https://criminal.lol/](https://criminal.lol/)
 
-### Contact Me
+### 2. StreamSync
+- **Repo:** [streamSync](https://github.com/rohitsx/streamSync)
+- **Live:** [https://stream-sync.devrohit.tech/](https://stream-sync.devrohit.tech/)
 
-- Discord: rohitsx
-- Email: rohitbindw@gmail.com
+### 3. Omegle Clone
+- **Repo:** [omegle-clone](https://github.com/rohitsx/omegle-clone)
+- **Live:** [http://omegel-clone.devrohit.tech/](http://omegel-clone.devrohit.tech/)
+
+### 4. WebRTC Project
+- **Repo:** [webRTC](https://github.com/rohitsx/webRTC)
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Add or remove languages/technologies as needed -->
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsx&show_icons=true&theme=radical" alt="Rohit's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsx&theme=radical" alt="Rohit's GitHub streak" />
+</p>
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:rohitbindw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/users/rohitsx"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
