@@ -57,7 +57,7 @@ Unemployed, Open to new projects and opportunities.
   </tr>
 </table>
 
-### Connect With Me
+### Connect On
 
 <p align="center">
   <a href="mailto:rohitbindw@gmail.com">
