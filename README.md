@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center>Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
   <tr>
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-<h2 align="center">Connect on</h2>
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:rohitbindw@gmail.com">
@@ -80,4 +80,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
 </p>
