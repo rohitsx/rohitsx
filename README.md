@@ -5,9 +5,11 @@
 </p>
 
 ## About Me
-I enjoy exploring different tech stacks and am currently building exciting projects.
+
+I'm a Full Stack Developer who enjoys exploring different tech stacks and is currently building exciting projects.
 
 ## 🚀 Current Projects
+
 | Project | Repository | Live Demo |
 |---------|------------|-----------|
 | Criminal.lol | [Repo](https://github.com/rohitsx/criminal.lol) | [Live](https://criminal.lol/) |
@@ -16,25 +18,23 @@ I enjoy exploring different tech stacks and am currently building exciting proje
 | WebRTC Project | [Repo](https://github.com/rohitsx/webRTC) | N/A |
 
 ## 💻 Tech Stack
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitsx&show_icons=true&theme=radical" alt="Rohit's GitHub stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsx&theme=radical" alt="Rohit's GitHub streak" />
 </p>
 
 ## 📫 Connect with me
+
 <p align="center">
   <a href="mailto:rohitbindw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.com/users/rohitsx"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+  <a href="https://discord.com/users/rohitsx"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor
