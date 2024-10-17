@@ -1,10 +1,10 @@
 # Welcome! I'm Rohit 👋
 
-Full-stack developer passionate about creating innovative web applications.
+Full-stack developer, Currently looking for job
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ Full-stack developer passionate about creating innovative web applications.
   </tr>
 </table>
 
-## Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:your.email@example.com">
