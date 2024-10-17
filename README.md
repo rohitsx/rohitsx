@@ -1,13 +1,7 @@
-<h1 align="center">Rohit | Full Stack Developer 👨‍💻</h1>
+<h1 align="center">Welcome! I'm rohit</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=440&lines=Always+learning+new+things;Passionate+about+web+technologies;Building+innovative+solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Exploring-New%20Technologies-blue" alt="Exploring" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange" alt="Open to Collaboration" />
+  Unemployed looking for job!
 </p>
 
 ---
@@ -24,8 +18,8 @@
       <a href="https://criminal.lol/">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
-      <p>A cutting-edge web application for [brief description].</p>
-      <p><strong>Tech Stack:</strong> [Key technologies used]</p>
+      <p>Criminal.lol is a social media platform that lets you connect with strangers via video chat, alongside other engaging social media features.</p>
+      <p>NexJS/TS NodeJs Postgresql WebRTC SocketIO</p>
     </td>
     <td align="center" width="50%">
       <h3>StreamSync</h3>
@@ -35,8 +29,8 @@
       <a href="https://stream-sync.devrohit.tech/">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
-      <p>An innovative platform for [brief description].</p>
-      <p><strong>Tech Stack:</strong> [Key technologies used]</p>
+      <p>streamSync is a browser extension that enables real-time voice interactions between hosts and participants.</p>
+      <p>[React/TS Nodejs WebRTC SocketIO MongoDB Redis]</p>
     </td>
   </tr>
   <tr>
@@ -48,16 +42,19 @@
       <a href="http://omegel-clone.devrohit.tech/">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
-      <p>A modern take on random video chatting.</p>
-      <p><strong>Tech Stack:</strong> [Key technologies used]</p>
+      <p>Omegle Clone is a real-time video chat platform that connects strangers for random, spontaneous conversations.</p>
+      <p>[React/Js Nodejs WebRTC SocketIO Redis]</p>
     </td>
     <td align="center">
       <h3>WebRTC Project</h3>
-      <a href="https://github.com/rohitsx/webRTC">
+      <a href="https://github.com/rohitsx/web3-wallet">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
       </a>
-      <p>Exploring real-time communication in web applications.</p>
-      <p><strong>Tech Stack:</strong> [Key technologies used]</p>
+      <a href="https://wallet.devrohit.tech/">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+      </a>
+      <p>Simple web3 wallet, allows users to generate and manage multiple wallet addresses.</p>
+      <p>[React/TS]</p>
     </td>
   </tr>
 </table>
