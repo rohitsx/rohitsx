@@ -1,6 +1,6 @@
 # Welcome! I'm Rohit 👋
 
-Full-stack developer, Currently looking for job
+I am currently looking for job opportunities.
 
 ---
 
