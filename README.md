@@ -1,6 +1,6 @@
 # Welcome! I'm Rohit 👋
 
-I am currently looking for job opportunities.
+Unemployed, Open to new projects and opportunities.
 
 ---
 
