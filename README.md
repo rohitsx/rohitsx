@@ -9,7 +9,7 @@ Unemployed, Open to new projects and opportunities.
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Criminal.lol</h3>
+      <h3 href="https://criminal.lol/">Criminal.lol</h3>
       <a href="https://github.com/rohitsx/criminal.lol">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
       </a>
