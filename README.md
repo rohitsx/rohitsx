@@ -62,31 +62,6 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsx&show_icons=true&theme=radical" alt="Rohit's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsx&theme=radical" alt="Rohit's GitHub streak" />
-</p>
-
----
-
-<h2 align="center">🌟 Skills Snapshot</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Angular-61DAFB?style=for-the-badge" alt="Frontend Skills" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Django-339933?style=for-the-badge" alt="Backend Skills" />
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL%20%7C%20MySQL-4479A1?style=for-the-badge" alt="Database Skills" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20CI/CD-2496ED?style=for-the-badge" alt="DevOps Skills" />
-</p>
-
----
-
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
@@ -96,10 +71,10 @@
   <a href="https://discord.com/users/rohitsx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/rohiitrb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/rohitsx">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
