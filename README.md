@@ -10,20 +10,12 @@ I enjoy exploring different tech stacks and am currently building exciting proje
 
 ## 🚀 Current Projects
 
-### 1. Criminal.lol
-- **Repo:** [criminal.lol](https://github.com/rohitsx/criminal.lol)
-- **Live:** [https://criminal.lol/](https://criminal.lol/)
-
-### 2. StreamSync
-- **Repo:** [streamSync](https://github.com/rohitsx/streamSync)
-- **Live:** [https://stream-sync.devrohit.tech/](https://stream-sync.devrohit.tech/)
-
-### 3. Omegle Clone
-- **Repo:** [omegle-clone](https://github.com/rohitsx/omegle-clone)
-- **Live:** [http://omegel-clone.devrohit.tech/](http://omegel-clone.devrohit.tech/)
-
-### 4. WebRTC Project
-- **Repo:** [webRTC](https://github.com/rohitsx/webRTC)
+| Project | Repository | Live Demo |
+|---------|------------|-----------|
+| Criminal.lol | [Repo](https://github.com/rohitsx/criminal.lol) | [Live](https://criminal.lol/) |
+| StreamSync | [Repo](https://github.com/rohitsx/streamSync) | [Live](https://stream-sync.devrohit.tech/) |
+| Omegle Clone | [Repo](https://github.com/rohitsx/omegle-clone) | [Live](http://omegel-clone.devrohit.tech/) |
+| WebRTC Project | [Repo](https://github.com/rohitsx/webRTC) | N/A |
 
 ## 💻 Tech Stack
 
