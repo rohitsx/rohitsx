@@ -83,5 +83,5 @@
 </p>
 
 <p align="center">
-  <i>Let's build something amazing together!</i>
+
 </p>
