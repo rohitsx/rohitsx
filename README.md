@@ -17,7 +17,7 @@ Unemployed, Open to new projects and opportunities.
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
       <p>A social media platform with video chat capabilities.</p>
-      <p><code>NextJS</code> <code>TypeScript</code> <code>NodeJS</code> <code>PostgreSQL</code> <code>WebRTC</code> <code>Socket.IO</code></p>
+      <p><code>NextJS</code> <code>TypeScript</code> <code>NodeJS</code> <code>Docker</code> <code>Prisma DB</code> <code>PostgreSQL</code> <code>WebRTC</code> <code>Socket.IO</code></p>
     </td>
     <td align="center" width="50%">
       <h3>StreamSync</h3>
