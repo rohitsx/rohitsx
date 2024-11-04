@@ -31,30 +31,6 @@ Unemployed, Open to new projects and opportunities.
       <p><code>React</code> <code>TypeScript</code> <code>NodeJS</code> <code>WebRTC</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Redis</code></p>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3>Omegle Clone</h3>
-      <a href="https://github.com/rohitsx/omegle-clone">
-        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-      <a href="http://omegel-clone.devrohit.tech/">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-      </a>
-      <p>Real-time video chat platform connecting strangers.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>NodeJS</code> <code>WebRTC</code> <code>Socket.IO</code> <code>Redis</code></p>
-    </td>
-    <td align="center">
-      <h3>Web3 Wallet</h3>
-      <a href="https://github.com/rohitsx/web3-wallet">
-        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-      <a href="https://wallet.devrohit.tech/">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-      </a>
-      <p>Simple web3 wallet for managing multiple addresses.</p>
-      <p><code>React</code> <code>TypeScript</code></p>
-    </td>
-  </tr>
 </table>
 
 ### Connect On
