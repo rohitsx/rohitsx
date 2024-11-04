@@ -8,15 +8,7 @@ Unemployed, Open to new projects and opportunities.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Criminal.lol</h3>
-      <a href="https://criminal.lol/">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-      </a>
-      <p>A social media platform with video chat capabilities.</p>
-      <p><code>NextJS</code> <code>TypeScript</code> <code>NodeJS</code> <code>Docker</code> <code>Prisma DB</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>WebRTC</code> <code>Socket.IO</code></p>
-    </td>
-    <td align="center" width="50%">
+     <td align="center" width="50%">
       <h3>StreamSync</h3>
       <a href="https://github.com/rohitsx/streamSync">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
@@ -26,6 +18,14 @@ Unemployed, Open to new projects and opportunities.
       </a>
       <p>Browser extension for real-time voice interactions.</p>
       <p><code>React</code> <code>TypeScript</code> <code>NodeJS</code> <code>WebRTC</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Redis</code></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Criminal.lol</h3>
+      <a href="https://criminal.lol/">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+      </a>
+      <p>A social media platform with video chat capabilities.</p>
+      <p><code>NextJS</code> <code>TypeScript</code> <code>NodeJS</code> <code>Docker</code> <code>Prisma DB</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>WebRTC</code> <code>Socket.IO</code></p>
     </td>
   </tr>
 </table>
