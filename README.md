@@ -10,9 +10,6 @@ Unemployed, Open to new projects and opportunities.
   <tr>
      <td align="center" width="50%">
       <h3>StreamSync</h3>
-      <a href="https://github.com/rohitsx/streamSync">
-        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
       <a href="https://stream-sync.devrohit.tech/">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
