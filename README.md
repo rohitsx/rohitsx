@@ -18,7 +18,7 @@ Unemployed, Open to new projects and opportunities.
     </td>
     <td align="center" width="50%">
       <h3>Criminal.lol</h3>
-      <a href="https://criminal.lol/">
+      <a href="https://youtu.be/7VjKYaMxiYA">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
       <p>A social media platform with video chat capabilities.</p>
