@@ -10,7 +10,7 @@ Unemployed, Open to new projects and opportunities.
   <tr>
      <td align="center" width="50%">
       <h3>StreamSync</h3>
-      <a href="https://www.youtube.com/watch?v=BcAmMkEtrtQ">
+      <a href="https://www.youtube.com/@water-98/streams">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
       <p>Browser extension for real-time voice interactions.</p>
@@ -18,7 +18,7 @@ Unemployed, Open to new projects and opportunities.
     </td>
     <td align="center" width="50%">
       <h3>Criminal.lol</h3>
-      <a href="https://youtu.be/7VjKYaMxiYA">
+      <a href="https://www.youtube.com/watch?v=DlcM5WlSlDs">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
       <p>A social media platform with video chat capabilities.</p>
@@ -66,9 +66,4 @@ Unemployed, Open to new projects and opportunities.
 ### 🏆 Contribution Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rohitsx&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsx&theme=tokyo-night" alt="Contribution Graph" />
 </p>
