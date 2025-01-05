@@ -51,7 +51,7 @@ Unemployed, Open to new projects and opportunities.
 </p>
 
 ---
-## 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 <table>
   <tr>
     <td>
@@ -63,7 +63,7 @@ Unemployed, Open to new projects and opportunities.
   </tr>
 </table>
 
-### 🏆 Contribution Stats
+### Contribution Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rohitsx&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
