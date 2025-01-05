@@ -55,20 +55,20 @@ Unemployed, Open to new projects and opportunities.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsx&layout=compact&theme=tokyonight" alt="Most Used Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rohitsx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
 ### 🏆 Contribution Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rohitsx&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsx&theme=tokyo-night" alt="Contribution Graph" />
 </p>
