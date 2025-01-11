@@ -49,21 +49,3 @@ Unemployed, Open to new projects and opportunities.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
----
-### GitHub Stats & Activity
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsx&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rohitsx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-### Contribution Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohitsx&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
