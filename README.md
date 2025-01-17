@@ -10,7 +10,7 @@ Unemployed, Open to new projects and opportunities.
   <tr>
      <td align="center" width="50%">
       <h3>StreamSync</h3>
-      <a href="https://www.youtube.com/@water-98/streams">
+      <a href="https://www.streamsync.fun/">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
       </a>
       <p>Browser extension for real-time voice interactions.</p>
