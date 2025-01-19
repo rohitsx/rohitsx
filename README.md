@@ -17,12 +17,12 @@ Unemployed, Open to new projects and opportunities.
       <p><code>React</code> <code>TypeScript</code> <code>NodeJS</code> <code>WebRTC</code> <code>Docker</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Redis</code></p>
     </td>
     <td align="center" width="50%">
-      <h3>Criminal.lol</h3>
+      <h3>SquadX</h3>
       <a href="https://www.youtube.com/watch?v=DlcM5WlSlDs">
         <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
       </a>
       <p>A social media platform with video chat capabilities.</p>
-      <p><code>NextJS</code> <code>TypeScript</code> <code>NodeJS</code> <code>Docker</code> <code>Prisma DB</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>WebRTC</code> <code>Socket.IO</code></p>
+      <p><code>React</code> <code>TypeScript</code> <code>NodeJS</code> <code>Docker</code> <code>Prisma DB</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>WebRTC</code> <code>Socket.IO</code></p>
     </td>
   </tr>
 </table>
