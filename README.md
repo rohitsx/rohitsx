@@ -11,7 +11,7 @@ Unemployed, Open to new projects and opportunities.
      <td align="center" width="50%">
       <h3>StreamSync</h3>
       <a href="https://www.streamsync.fun/">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
       </a>
       <p>Browser extension for real-time voice interactions.</p>
       <p><code>React</code> <code>TypeScript</code> <code>NodeJS</code> <code>WebRTC</code> <code>Docker</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Redis</code></p>
@@ -19,7 +19,7 @@ Unemployed, Open to new projects and opportunities.
     <td align="center" width="50%">
       <h3>Criminal.lol</h3>
       <a href="https://www.youtube.com/watch?v=DlcM5WlSlDs">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
       </a>
       <p>A social media platform with video chat capabilities.</p>
       <p><code>NextJS</code> <code>TypeScript</code> <code>NodeJS</code> <code>Docker</code> <code>Prisma DB</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>WebRTC</code> <code>Socket.IO</code></p>
