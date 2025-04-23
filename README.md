@@ -1,4 +1,10 @@
-### Connect On
+<h2>Hi there</h2>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:rohitbindw@gmail.com">
@@ -15,8 +21,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
