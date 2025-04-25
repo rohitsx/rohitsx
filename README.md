@@ -2,8 +2,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=rohitsx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p>
   <img src="https://wakatime.com/badge/user/cf1154fa-692c-4825-a340-ef4f714be7f7.svg" />
 </p>
 
